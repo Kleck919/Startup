@@ -1,0 +1,51 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+header{
+    display: flex;
+    align-items: center;
+}
+a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+h1{
+    margin-left: 60px;
+    color: white;
+}
+h3{
+    margin-left: 15px;
+    color: white;
+}
+.head{
+    margin-left: 900px;
+    color: white;
+}
+.welcom{
+    display: flex; 
+    justify-content: center;
+    margin-top:300px;
+    font-size: 54px;
+    margin-bottom: 50px;
+    color: white;
+}
+.button{
+    font-size: 30px;
+    margin-left: 835px;
+    display: block;
+    margin-top:50px ;
+    color: white;
+    background-color: grey;
+    border: white solid 3px;  
+}
+.under{
+    font-size: 26px;
+    margin-left: 700px;
+    color: white;
+}
+.top{
+    background-color: grey;
+    padding-bottom: 331px;
+}
